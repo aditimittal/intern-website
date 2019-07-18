@@ -4,7 +4,7 @@ url: https://aditimittal.github.io
 highlighter: rouge
 
 markdown: kramdown
-title : Sengupta Lab
+title : Insect Ecology, Evolution, and Conservation Lab
 permalink: /:categories/:title/
 repository: aditimittal/aditimittal.github.io
 future: true
