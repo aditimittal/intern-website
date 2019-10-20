@@ -1,11 +1,9 @@
-# bedford lab research
-
 ## Build site
 
 To build the website locally, clone the repo with:
 
 ```
-git clone https://github.com/blab/blotter.git
+git clone https://github.com/aditimittal/aditimittal.github.io.git
 ```
 
 Then install necessary Ruby dependencies by running `bundle install` from within the `blotter` directory.  After this, the site can be be built with:
